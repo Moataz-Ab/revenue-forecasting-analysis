@@ -10,16 +10,16 @@ In this study, revenue and customer data is provided from two retail shops in 20
 
 # Assumptions:
 
-Both shops started in 01.01.2022. Therefore, customer IDs that appear for the first time in the dataset are considered new customers
-That the growth rates in monthly revenue and new customers for both shops will continue into 2023 at the same rate as 2022
-To simplify the analysis, we assume there are no boundaries for continuous growth (such as resources and capacity)
-The planned new shops in 2023 will have both identical growth behavior to the regression average of shop 1 and 2 in 2022
-For simplification, all data points will be included in regression calculations and no data points will be considered an outlier
+- Both shops started in 01.01.2022. Therefore, customer IDs that appear for the first time in the dataset are considered new customers
+- That the growth rates in monthly revenue and new customers for both shops will continue into 2023 at the same rate as 2022
+- To simplify the analysis, we assume there are no boundaries for continuous growth (such as resources and capacity)
+- The planned new shops in 2023 will have both identical growth behavior to the regression average of shop 1 and 2 in 2022
+- For simplification, all data points will be included in regression calculations and no data points will be considered an outlier
 
 # Approach:
 
-The forecasting is performed arithmetically, where growth trends of revenue and customer numbers are tracked in 2022 and extrapolated to 2023
-Regression will be based on monthly metrics (revenue and new customers) of the shop, regardless the number of orders in each month
+- The forecasting is performed arithmetically, where growth trends of revenue and customer numbers are tracked in 2022 and extrapolated to 2023
+- Regression will be based on monthly metrics (revenue and new customers) of the shop, regardless the number of orders in each month
 
 # Analysis
 
