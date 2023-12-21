@@ -8,7 +8,7 @@ A case study of estimating revenue growth of a chain of retail shops based on th
 
 In this study, revenue and customer data is provided from two retail shops in 2022. The goal is to estimate the revenue and the new number of customers in those shops during 2023. Furthermore, The data is used to forecast the same metrics for two new shops which are planned to be launched during in March and July 2023.
 
-# Assumptions:
+# Assumptions
 
 - Both shops started in 01.01.2022. Therefore, customer IDs that appear for the first time in the dataset are considered new customers
 - That the growth rates in monthly revenue and new customers for both shops will continue into 2023 at the same rate as 2022
@@ -16,7 +16,7 @@ In this study, revenue and customer data is provided from two retail shops in 20
 - The planned new shops in 2023 will have both identical growth behavior to the regression average of shop 1 and 2 in 2022
 - For simplification, all data points will be included in regression calculations and no data points will be considered an outlier
 
-# Approach:
+# Approach
 
 - The forecasting is performed arithmetically, where growth trends of revenue and customer numbers are tracked in 2022 and extrapolated to 2023
 - Regression will be based on monthly metrics (revenue and new customers) of the shop, regardless the number of orders in each month
