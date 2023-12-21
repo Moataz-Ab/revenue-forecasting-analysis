@@ -23,7 +23,7 @@ In this study, revenue and customer data is provided from two retail shops in 20
 
 # Analysis
 
-The complete analysis is provided in the Jupyter Notebook <revenue_forecasting.ipynb>
+The complete analysis is provided in the [Jupyter Notebook file](revenue_forecasting.ipynb)
 
 # Results Summary
 
