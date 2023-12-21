@@ -2,7 +2,7 @@
 
 A case study of estimating revenue growth of a chain of retail shops based on the revenue and customer data provided from the previous year.
 
-![](img/projection_snapshot.jpg)
+![](img/projection_snapshot.png)
 
 # Analysis Scope
 
