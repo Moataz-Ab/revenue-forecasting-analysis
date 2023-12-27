@@ -4,6 +4,8 @@ A case study of estimating revenue growth of a chain of retail shops based on th
 
 ![](img/projection_snapshot.png)
 
+![](img/result-summary.jpg)
+
 # Analysis Scope
 
 In this study, revenue and customer data is provided from two retail shops in 2022. The goal is to estimate the revenue and the new number of customers in those shops during 2023. Furthermore, The data is used to forecast the same metrics for two new shops which are planned to be launched during in March and July 2023.
